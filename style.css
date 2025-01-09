@@ -2,3 +2,23 @@
 body {background-color: powderblue;}
 h1   {color: goldenrod;}
 p    {color: orange;}
+
+.header-container h2{
+  background-color: pink;
+  color: palegreen;
+  border: 2px dashed red;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.header-container h3{
+  background-color: pink;
+  color: palegreen;
+  border: 2px dashed red;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+
