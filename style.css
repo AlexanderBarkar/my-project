@@ -1,5 +1,5 @@
 
-.header-container h2{
+.header-container h1{
   background-color: pink;
   color: palegreen;
   border: 2px dashed red;
@@ -8,7 +8,7 @@
   text-align: center;
 }
 
-.header-container h3{
+.header-container h2{
   background-color: pink;
   color: palegreen;
   border: 2px dashed red;
