@@ -13,7 +13,7 @@ h1 ,h2 {
 .custom-div {
   background-color: pink;
   color: green;
-  border: 2px;
+  border: 2px dashed red;
   padding: 20px;
   margin: 20px auto;
   max-width: 600px;
