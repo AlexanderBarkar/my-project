@@ -22,8 +22,9 @@ h1 ,h2 {
 .purple-div {
   background-color: purple;
   color: white;
-  border: 2px;
+  border: 2px dashed red;
   padding: 20px;
+  margin: 20px auto;
   max-width: 600px;
   text-align: center;
 }
